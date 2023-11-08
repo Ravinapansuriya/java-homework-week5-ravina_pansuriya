@@ -11,7 +11,7 @@ public class Programme_6_RetrieveElements {
         // Create a new ArrayList to store elements
         ArrayList<String> car = new ArrayList<>();
 
-        // Add some fruits to the ArrayList
+        // Add some car name to the ArrayList
         car.add("Audi");
         car.add("Toyato");
         car.add("Honda");
